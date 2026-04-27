@@ -51,6 +51,15 @@ aside h3{
   /*opacity: 1;*/
 }
 
+#design_section{
+  background-color: var(--secondary);
+  text-align: center;
+  padding:2rem;
+
+}
+
+#design_section 
+
 #dots{
   text-align:center
 }
@@ -82,6 +91,8 @@ h1{
   color: #fff;
   align-self: center;
   font-size: 55px;
+}
+#header-links {
 }
 
 #main-nav a {
