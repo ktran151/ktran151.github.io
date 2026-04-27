@@ -9,7 +9,7 @@
 body {
   /*background-image: url("images/mountain-bg.jpg");*/
   background-size: cover;
-  background-color: #bbb;
+  background-color: #BAC4C4;
 }
 
 :root { 
@@ -68,7 +68,7 @@ aside h3{
 
 .dot:hover {
   background-color: #fff;
-}
+}                                     
 
 #dropbutton {
   font-weight: normal;
@@ -79,7 +79,7 @@ aside h3{
 
 h1{
   text-shadow: 3px 2px 0 #264C7F;
-  color: var(--secondary);
+  color: #fff;
   align-self: center;
   font-size: 55px;
 }
@@ -146,5 +146,6 @@ h1{
   }
 
 .project_description {
-  display: ;
+  display: block;
+  padding: 2rem;
 }
