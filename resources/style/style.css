@@ -42,6 +42,7 @@ aside {
 aside h3{
   text-align: center;
 }
+
 .contact_heading {
   text-align: center;
   font-size: 18px;
@@ -52,13 +53,9 @@ aside h3{
 }
 
 #design_section{
-  background-color: var(--secondary);
   text-align: center;
   padding:2rem;
-
 }
-
-#design_section 
 
 #dots{
   text-align:center
@@ -92,8 +89,12 @@ h1{
   align-self: center;
   font-size: 55px;
 }
-#header-links {
+
+h2{
+  text-align: center;
+  padding: 2rem;
 }
+
 
 #main-nav a {
     color: black;
@@ -134,7 +135,6 @@ h1{
 #projects{
   max-width: 800px;
   margin: auto;
-  background-color: var(--primary);
   padding: 2rem;
   }
 
