@@ -12,14 +12,13 @@ aside {
   padding: 1rem;
 }
 
-
 #about-me-content {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   max-height: 20rem;
   padding: 3rem;
-  gap: 10px;
+  gap: 80px;
 }
 
 #about-me-content img {
@@ -54,6 +53,7 @@ header {
   padding: 1rem ;
   opacity: 1.0;
   background-color: var(--white);
+  border-radius: 8px;
 }
 
 #header-links {
@@ -146,7 +146,7 @@ header {
 .project-picture {
   max-width: 500px;
 }
-
+ 
 #design_skills, #coding_skills {
   display: flex;
   flex-direction: column;
